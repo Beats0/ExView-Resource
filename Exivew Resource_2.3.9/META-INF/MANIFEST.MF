@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: res/xml/config.xml
+SHA1-Digest: F+rjzfCB3HzgMHtF/D4Wc2lt6Qo=
+
+Name: assets/img/nopic.png
+SHA1-Digest: ui9t0UkFmR8C+fvYILYDV2vQNhs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: g2vkbWMSIJh5C52aDgsLRhbHmjM=
+
+Name: assets/img/logo.png
+SHA1-Digest: FICURtTRL7j+5DpEU0EuT7Dl7/Y=
+
+Name: assets/MoeRuntime.so
+SHA1-Digest: YIhJ429IAejudsaDp4eM/k46YNA=
+
+Name: assets/img/modal.png
+SHA1-Digest: 9qPWyQm6xWRaqzg7vK/6W4WP3oI=
+
+Name: assets/Licence.txt
+SHA1-Digest: 5to0OXimlKlRPK8f7gxDI2gHfBM=
+
+Name: resources.arsc
+SHA1-Digest: 8waKJJdEMpUm5zPnuTp44XzyDYE=
+
+Name: classes.dex
+SHA1-Digest: EK1KhRzNiSenJIuYYj8NYZCesEA=
+
+Name: assets/img/exit.png
+SHA1-Digest: Ej2By1JdtolOaPa5VmxyAL9thZI=
+
+Name: assets/img/loading.png
+SHA1-Digest: Jax7pK61obHAjpU5OqC1/z86JM8=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 9fAi0hZeJPS1ML0Y8BUwEiPJDbU=
+
+Name: assets/img/logo.jpg
+SHA1-Digest: dF070bJ1yhxeYC1dCL/oVxhHSRQ=
+
